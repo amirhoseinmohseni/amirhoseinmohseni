@@ -6,11 +6,12 @@ I'm passionate about **software architecture**, clean code, and continuously imp
 ---
 
 ## 🚀 Tech Stack
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)]()
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)]()
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)]()
+[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)]()
+[![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=api&logoColor=white)]()
+[![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)]()
 
 ---
 
@@ -34,4 +35,4 @@ I'm passionate about **software architecture**, clean code, and continuously imp
 ---
 
 ## 📊 GitHub Stats
-![Amirhosein's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+![Amirhosein's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirhoseinmohseni&show_icons=true&theme=tokyonight)
