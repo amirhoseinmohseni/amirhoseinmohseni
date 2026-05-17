@@ -23,8 +23,11 @@ I'm passionate about **software architecture**, clean code, and continuously imp
 ---
 
 ## 🌱 Currently learning
-- Advanced .NET concepts  
-- Clean Architecture & Domain-Driven Design  
+- Docker & containerization
+- Linux for backend developers
+- Cloud fundamentals
+- System design & clean architecture
+- Domain-Driven Design  
 - Performance optimization + best practices  
 
 ---
