@@ -39,3 +39,5 @@ I'm passionate about **software architecture**, clean code, and continuously imp
 
 ## 📊 GitHub Stats
 ![Amirhosein's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirhoseinmohseni&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhoseinmohseni&layout=compact&theme=tokyonight)
